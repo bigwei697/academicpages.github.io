@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziwei Wang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Ziwei Wang"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/willziwang"
+  github           : "willziwang"
   google_plus      :
   keybase          :
   instagram        :
